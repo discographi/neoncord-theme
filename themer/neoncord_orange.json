@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "name": "Neoncord (Orange) ",
+        "author": "discographi.#5550",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -9548747,
+        "input_background": -15396079,
+        "mention_highlight": 452959785,
+        "accent": -21415,
+        "background": -14738407,
+        "background_secondary": -15396079,
+        "statusbar": -14870242
+    },
+    "colors": {},
+    "drawable_tints": {}
+}

@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "name": "Neoncord (Blue) ",
+        "author": "discographi.#5550",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -13285778,
+        "input_background": -15658219,
+        "mention_highlight": 438928383,
+        "accent": -10912769,
+        "background": -15131873,
+        "background_secondary": -15658219,
+        "statusbar": -14870242
+    },
+    "colors": {},
+    "drawable_tints": {}, 
+}

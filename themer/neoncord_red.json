@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "name": "Neoncord (Red) ",
+        "author": "discographi.#5550",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -9554635,
+        "input_background": -15396590,
+        "mention_highlight": 452929833,
+        "accent": -42663,
+        "background": -14739173,
+        "background_secondary": -15396590,
+        "statusbar": -14870242
+    },
+    "colors": {},
+    "drawable_tints": {}
+}

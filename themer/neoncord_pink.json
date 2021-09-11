@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "name": "Neoncord (Pink) ",
+        "author": "discographi.#5550",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -9554580,
+        "input_background": -15462123,
+        "mention_highlight": 449784319,
+        "accent": -42512,
+        "background": -14870241,
+        "background_secondary": -15462123,
+        "statusbar": -14870242
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
