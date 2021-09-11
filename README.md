@@ -10,3 +10,6 @@ Neoncord is theme made for Aliucord. It has 5 bright colors.
 Go to themer folder, download desired color and insert this in Aliucord themes folder
 ### Discord Themer Xposed module
 Go to xposed folder, download desired color and load this in themer
+
+# Credits
+https://github.com/Aliucord/Aliucord
